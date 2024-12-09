@@ -34,3 +34,8 @@ Ce projet consiste à créer un tableau HTML représentant la liste des étudian
 ## 💻 Technologies utilisées
 - HTML5
 - [Bootstrap 5](https://getbootstrap.com/)
+
+## Ajout d'un étudiant 
+- Nom:HOUNMENOU 
+-Prénom:Mahougnon Esaie
+-Email:zedagahounesaie@gmail.com
